@@ -1,0 +1,22 @@
+{
+  "name": "ark-survival-ascended-trainer",
+  "displayName": "ARK Survival Ascended Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character settings",
+    "Resource groups",
+    "World profiles"
+  ],
+  "topics": [
+    "ark-survival-ascended-trainer",
+    "ark-survival-ascended-tools",
+    "ark-survival-ascended-menu",
+    "ark-survival-ascended-settings",
+    "ark-survival-ascended-configs",
+    "ark-survival-ascended-character-settings",
+    "ark-survival-ascended-resource-groups"
+  ]
+}
